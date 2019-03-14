@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8808" started-at="2019-03-14T01:13:08Z" finished-at="2019-03-14T01:13:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8808" started-at="2019-03-14T01:13:08Z" finished-at="2019-03-14T01:13:17Z">
+      <class name="hello.Baiduhello">
+        <test-method status="PASS" signature="OpenFireFox()[pri:0, instance:hello.Baiduhello@449b2d27]" name="OpenFireFox" duration-ms="8799" started-at="2019-03-14T09:13:08Z" finished-at="2019-03-14T09:13:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenFireFox -->
+      </class> <!-- hello.Baiduhello -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
